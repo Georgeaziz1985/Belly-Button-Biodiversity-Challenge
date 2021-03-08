@@ -63,6 +63,7 @@ The following task is advanced and therefore optional.
 * Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+* Code has deployed to github pages https://georgeaziz1985.github.io/Belly-Button-page/
 
 ## Hints
 
